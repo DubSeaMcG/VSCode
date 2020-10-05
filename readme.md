@@ -5,4 +5,4 @@ This is my VSCode test
 Coursework from UW
 
 ## Last Test to See if this is working
-Is SSH required?
+Is SSH required - No it is not
